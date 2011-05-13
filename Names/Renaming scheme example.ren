@@ -1,0 +1,18 @@
+%%FONTLAB RENAMING SCHEME: Renaming scheme example
+%Notation is pretty simple, each line consists of: oldName<tab>newName
+%lines starting with % are ignored
+%You can place this file to your FL Mapping folder for example
+horizontalbar	horizontalbar
+bullet	bullet
+arrLeft	uni2190
+arrUp	uni2191
+arrRight	uni2192
+arrDown	uni2193
+c.A uni0410
+c.Be uni0411
+c.Ve uni0412
+c.Ghe uni0413
+c.a uni0430
+c.be uni0431
+c.ve uni0432
+c.ghe uni0433
